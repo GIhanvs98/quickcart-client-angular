@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import {ContextComponent} from '../../components/context/context.component';
-import {HomepageComponent} from '../../components/homepage/homepage.component';
+
 import {SecurityContextComponent} from './components/security-context/security-context.component';
 import {LoginComponent} from './components/login/login.component';
 import {SignupComponent} from './components/signup/signup.component';
