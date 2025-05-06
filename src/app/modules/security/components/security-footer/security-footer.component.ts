@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './security-footer.component.scss'
 })
 export class SecurityFooterComponent {
+  year=new Date().getFullYear()
 
 }

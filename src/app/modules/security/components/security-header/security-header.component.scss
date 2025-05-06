@@ -1,9 +1,10 @@
 .outer{
   width: 100%;
-  height: 50px;
+  height: 100%;
   background-color: var(--primary-color);
   padding: 0 10px;
   display: flex;
+  overflow: hidden;
 }
 .header-left{
   width: 200px;
