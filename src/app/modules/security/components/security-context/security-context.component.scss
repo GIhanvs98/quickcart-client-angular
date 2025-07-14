@@ -1,0 +1,20 @@
+.context{
+  display: flex;
+  flex-direction: column;
+
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+.container{
+overflow: auto;
+  flex: 1;
+
+}
+.header{
+  height: 6vh;
+}
+.footer{
+  height: 6vh;
+  border: 1px solid red;
+}
